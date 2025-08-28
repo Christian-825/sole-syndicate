@@ -77,5 +77,5 @@ npm run build
 
 ## Authors
 
-Christian Nievera — Frontend (Vue) & Backend (Node/Express)
+Christian Nievera — Frontend (Vue) & Backend (Node/Express)  
 Ryan Oxales — Frontend (Vue) & Backend (Node/Express) 

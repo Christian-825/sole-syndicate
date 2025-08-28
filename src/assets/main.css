@@ -1,0 +1,61 @@
+#banner-title {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-weight: bolder;
+  font-size: 54px;
+}
+
+#motto {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 1.7rem;
+}
+
+
+/* Global navbar link styles */
+.navbar-nav .nav-link {
+  color: black !important;
+  font-size: 0.8rem;             /* <-- Bigger font size */
+  font-weight: 500;            /* Bold */
+  letter-spacing: 0.3px; 
+  transition: all 0.2s ease-in-out;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+  color: #000000 !important;
+  text-decoration: underline;
+  /* background-color: #f2f2f2; */
+  font-weight: 500;
+}
+
+.custom-banner-btn {
+  background-color: black !important;  /* Overrides Bootstrap */
+  color: white !important;
+  font-weight: 600;
+  font-size: 1.2rem;
+  border: none;
+  transition: all 0.2s ease-in-out;
+}
+
+.custom-banner-btn:hover {
+  background-color: #333 !important;
+  text-decoration: none;
+  transform: scale(1.03);
+}
+
+/* Align text center for all card content */
+.card {
+  text-align: center;
+  border: 2px solid black; /* Black border for all cards */
+}
+
+/* Optional: if you want to override specific Bootstrap card styles */
+.card-body {
+  text-align: center;
+}
+
+#highlight1 .card,
+#highlight2 .card,
+#highlight3 .card {
+  border: 2px solid black;
+  text-align: center;
+}

@@ -42,7 +42,8 @@ npm run build
 
 ### Users
 - `POST /users/register` — Register a new user  
-- `POST /users/login` — User login  
+- `POST /users/login` — User login
+- `GET /users/details` — Manage user profile
 
 ### Products
 - `GET products/all` — List all sneakers  

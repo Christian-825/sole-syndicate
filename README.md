@@ -51,14 +51,13 @@ npm run build
 - `PUT /products/:productId/update` — Update a sneaker (Admin only)  
 - `DELETE /products/:productId` — Remove a sneaker (Admin only) 
 
-## Cart
+### Cart
 - `GET /cart/get-cart` — Get the current user's cart  
 - `POST /cart/add-to-cart` — Add an item to the cart  
 - `PATCH /cart/update-cart-quantity` — Update quantity of an item in the cart  
 - `DELETE /cart/:itemId` — Remove a specific item from the cart  
 
 ### Orders
-
 - `POST /orders/checkout` — Place a new order  
 - `GET /orders/my-orders` — View your orders  
 - `GET /orders/all-orders` — View all orders (admin only)  

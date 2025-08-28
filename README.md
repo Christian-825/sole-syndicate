@@ -5,16 +5,16 @@ Sole Syndicate is a full-stack e-commerce web application built for sneaker enth
 ## Features
 
 - **User Accounts:** Securely sign up, log in, and manage your profile.
-- **Homepage:** Dynamic landing page showcasing featured sneakers and collections.
+- **Homepage:** User-friendly landing page offering fast access to featured sneakers, latest releases, and special offers
 - **Product Catalog:** Explore all available sneakers with detailed descriptions, prices, and images.
 - **Product Search:** Find sneakers easily by name or category.
 - **Shopping Cart:** Add items, adjust quantities, and remove products before checkout.
 - **Order Management:** Place orders, track status, and view order history.
 - **Admin Panel:**
- - Add new sneaker products with images and details
- - Activate or archive specific product
- - Update or remove existing products
- - Monitor and manage customer orders
+  - **Add new sneaker products** with images and details
+  - **Activate or archive** specific products
+  - **Update or remove** existing products
+  - **Monitor and manage** customer orders
 
 ## Customize configuration
 

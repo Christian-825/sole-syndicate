@@ -74,3 +74,8 @@ npm run build
 - **Routing:** Vue Router  
 - **HTTP Requests / API Communication:** Axios  
 - **Deployment:** Vercel / AWS
+
+## Authors
+
+Christian Nievera — Frontend (Vue) & Backend (Node/Express)
+Ryan Oxales — Frontend (Vue) & Backend (Node/Express) 

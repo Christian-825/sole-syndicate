@@ -1,4 +1,4 @@
-# Sole Syndicate Capstone 3
+# Sole Syndicate - Capstone 3
 
 Sole Syndicate is a full-stack e-commerce web application built for sneaker enthusiasts. It enables users to create accounts, browse products, search for their favorite shoes, and manage their shopping cart with ease. On the administrative side, the platform includes a dashboard that allows admins to manage inventory and track customer orders, giving them full control over the store. The application delivers a seamless, engaging shopping experience while keeping inventory and order management simple and efficient for administrators.
 
